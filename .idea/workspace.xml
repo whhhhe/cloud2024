@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5b99222-f8ba-44b5-876d-961ab2e22dbc" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.9.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2dRNKtp7ssAG6BNDCWYpprict9h" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/ideaPro/project/hm-dianping/pom.xml",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.1484375",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "spring.configuration.checksum": "6c0b20977317894fc07adabcce47d99c"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaPro\project\cloud2024\cloud-api-commons\src\main\java\com\zmy\cloud" />
+      <recent name="D:\ideaPro\project\cloud2024\cloud-consumer-order80\src\main\java\com\zmy\cloud" />
+      <recent name="D:\ideaPro\project\cloud2024\cloud-provider-payment8001\src\main\resources\mapper" />
+      <recent name="D:\ideaPro\project\cloud2024\cloud-provider-payment8001\src\main\java\com\zmy\cloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaPro\project\cloud2024\seata-account-service2003\src\main\resources\mapper" />
+      <recent name="D:\ideaPro\project\cloud2024\seata-storage-service2002\src\main\resources\mapper" />
+      <recent name="D:\ideaPro\project\cloud2024\seata-order-service2001\src\main\resources" />
+      <recent name="D:\ideaPro\project\cloud2024\seata-order-service2001\src\test" />
+      <recent name="D:\ideaPro\project\cloud2024\seata-order-service2001\src\main\resources\com\zmy\cloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zmy.cloud.controller" />
+      <recent name="com.zmy.cloud.config" />
+      <recent name="com.zmy.cloud.exp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataAccountMainApp2003">
+    <configuration name="Main80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zmy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zmy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zmy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9528" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-sentinel-gateway9528" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.Main9528" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOpenFeign80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.MainOpenFeign80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClient3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.NacosConfigClient3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.SeataAccountMainApp2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zmy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.SeataOrderMain2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageMainApp2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zmy.cloud.SeataStorageMainApp2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zmy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.NacosConfigClient3377" />
+      <item itemvalue="Spring Boot.Main9528" />
+      <item itemvalue="Spring Boot.SeataOrderMain2001" />
+      <item itemvalue="Spring Boot.Main8001" />
+      <item itemvalue="Spring Boot.Main9527" />
+      <item itemvalue="Spring Boot.MainOpenFeign80" />
+      <item itemvalue="Spring Boot.Main80" />
+      <item itemvalue="Spring Boot.SeataStorageMainApp2002" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+      <item itemvalue="Spring Boot.Main83" />
+      <item itemvalue="Spring Boot.Main8401" />
+      <item itemvalue="Spring Boot.Main9001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+        <item itemvalue="Spring Boot.SeataStorageMainApp2002" />
+        <item itemvalue="Spring Boot.Main9001" />
+        <item itemvalue="Spring Boot.Main83" />
+        <item itemvalue="Spring Boot.Main8401" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b5b99222-f8ba-44b5-876d-961ab2e22dbc" name="更改" comment="" />
+      <created>1709966870768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709966870768</updated>
+      <workItem from="1709966871898" duration="533000" />
+      <workItem from="1709967412347" duration="1203000" />
+      <workItem from="1709968622497" duration="1243000" />
+      <workItem from="1709969875596" duration="14797000" />
+      <workItem from="1710047145905" duration="12234000" />
+      <workItem from="1710139790733" duration="11467000" />
+      <workItem from="1710242219615" duration="4080000" />
+      <workItem from="1710328369965" duration="1259000" />
+      <workItem from="1710330245913" duration="314000" />
+      <workItem from="1710392532000" duration="11513000" />
+      <workItem from="1710478715276" duration="599000" />
+      <workItem from="1710482830926" duration="4335000" />
+      <workItem from="1710571665333" duration="3320000" />
+      <workItem from="1710662781741" duration="362000" />
+      <workItem from="1710665180504" duration="3147000" />
+      <workItem from="1710740432544" duration="11234000" />
+      <workItem from="1710824684814" duration="7986000" />
+      <workItem from="1710849876939" duration="8306000" />
+      <workItem from="1710911611915" duration="1358000" />
+      <workItem from="1710933641914" duration="3312000" />
+      <workItem from="1710939134478" duration="166000" />
+      <workItem from="1710944745381" duration="1582000" />
+      <workItem from="1711002788802" duration="1344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
